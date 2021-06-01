@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/exauce-mwililikwa/server-node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "sequelize": "^7.0.0-next.1"
   }
 }
